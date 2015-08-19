@@ -1,4 +1,5 @@
 # projetoEngSoft
-Primeira alteração
-Segunda alteração
+Primeira alteraÃ§Ã£o
+Segunda alteraÃ§Ã£o
 Altera pfvr, nunca te pedi nada
+alteraÃ§Ã£o direto no github
